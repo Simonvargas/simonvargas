@@ -1,5 +1,4 @@
 ### Hi there 👋 Come take a look ;)
-Here are some ideas to get you started:
 🔭 I’m currently working on ... JAVASCRIPT
 - 🌱 I’m currently learning ... whatever you need
 - 👯 I’m looking to collaborate on ... Everyone
