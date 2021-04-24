@@ -1,4 +1,4 @@
-### Hi there 👋 come take a look ;)
+### Hi there 👋 Come take a look ;)
 
 <!--
 **Simonvargas/simonvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
