@@ -1,4 +1,4 @@
-### Hi there 👋 Come take a look ;)
+### Welcome! 👋 
 - 🔭 I’m currently working on ... JAVASCRIPT
 - 🌱 I’m currently learning ... whatever you need
 - 👯 I’m looking to collaborate with ... Everyone
