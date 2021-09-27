@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://simonvargas.github.io/e](https://simonvargas.github.io/)
+- 👨‍💻 All of my projects are available at [https://simonvargas.github.io](https://simonvargas.github.io/)
 - 📫 How to reach me **simonvargas01@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
