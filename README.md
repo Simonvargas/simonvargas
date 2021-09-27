@@ -7,7 +7,6 @@
 - 👨‍💻 All of my projects are available at [https://simonvargas.github.io/e](https://simonvargas.github.io/)
 - 📫 How to reach me **simonvargas01@gmail.com**
 
-			<ul class="badges">
 							<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
 									src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
 							<a href="https://www.postgresql.org/"><img
@@ -29,4 +28,4 @@
 									src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /></a>
 							<a href="https://www.heroku.com/home"><img
 									src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" /></a>
-						</ul>
+						
