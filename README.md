@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h4 align="center">I'm Simon, a 24-year old technical enthusiast who does web development.</h3>
 
