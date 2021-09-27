@@ -7,9 +7,8 @@
 - 👨‍💻 All of my projects are available at [https://simonvargas.github.io/e](https://simonvargas.github.io/)
 - 📫 How to reach me **simonvargas01@gmail.com**
 
-							<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img
-									src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /></a>
-							<a href="https://www.postgresql.org/"><img
+							<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333" /><img>
+							
 									src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white" /></a>
 							<a href="https://sequelize.org/"><img src="https://img.shields.io/badge/-Sequelize-039BE5" /></a>
 							<a href="https://www.npmjs.com/package/express"><img
