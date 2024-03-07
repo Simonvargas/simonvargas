@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h4 align="center">I'm Simon, a 26-year old technical enthusiast who does web development.</h3>
+<h4 align="center">I'm Simon, a technical enthusiast who does web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilgkrishnan" alt="akhilgkrishnan" /> </p>
 
